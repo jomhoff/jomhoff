@@ -5,7 +5,8 @@ Currently, I am investigating the dynamics these processes on a macroevolutionar
 
 Beyond speciation and biogeography, I am interested in conservation genomics as well as ecology. 
 
-I have a cat named Princess Raskolnikov: 
+I have a cat named Princess Raskolnikov, she looks like this: 
+
 ![E00F0FBC-090A-4B98-ABD9-07BAFF47CEDB_1_105_c](https://github.com/jomhoff/jomhoff/assets/166093179/1cbe2b50-324c-4608-b18a-8f7a414b738b)
 
 
