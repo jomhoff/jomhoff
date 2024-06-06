@@ -1,7 +1,7 @@
 Howdy folks, I’m @jomhoff!
 
 I am a Ph.D. Candidate in the Richard Gilder Graduate School at the Americna Museum of Natural History. My research is focused on the interplay of speciation genomics and biogeography. 
-Currently, I am investigating the dynamics these processes on a macroevolutionary scale with _Plestiodon_ skinks.
+Currently, I am investigating the dynamics of these processes on a macroevolutionary scale with _Plestiodon_ skinks.
 
 Beyond speciation and biogeography, I am interested in conservation genomics as well as ecology. 
 
